@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Programação de Sistemas</p>
+<p align="left">- Desenvolvedor Back-End em formação</p>
 
 ###
 
