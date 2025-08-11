@@ -16,4 +16,4 @@ Desenvolvedor Back-End em formação, focado em Python e banco de dados.
 - [Previsao-tempo](https://github.com/Dedeinha81/previsao-tempo) - Dashboard clima usando API externa  
 
 ## Contato  
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | seuemail@example.com
+[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | https://www.linkedin.com/in/andrea-cruz-leonardo/
