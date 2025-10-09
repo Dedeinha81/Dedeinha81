@@ -15,51 +15,52 @@ Atualmente criando projetos em **Python**, mas sempre aberta para aprender **nov
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-<div align="left">
+## 🛠️ Tecnologias e Ferramentas  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em Destaque  
+
 | Projeto | Descrição |
 |----------|------------|
-| 📚 [Biblioteca CRUD](https://github.com/Dedeinha81/Biblioteca_crud) | Sistema CRUD em Python para gerenciamento de biblioteca |
-| 🔐 [Sistema de Login](https://github.com/Dedeinha81/Sistema-de-login) | Autenticação básica com Flask e SQLite |
-| 🌤️ [Previsão do Tempo](https://github.com/Dedeinha81/Previsao-tempo) | Aplicação que mostra o clima atual usando a API do OpenWeatherMap |
-| 📝 [Lista de Tarefas](https://github.com/Dedeinha81/Lista-de-Tarefas) | Sistema de gerenciamento de tarefas com listas, filas e pilhas em Python |
+| 📚 **Biblioteca CRUD** | Sistema CRUD em Python para gerenciamento de biblioteca |
+| 🔐 **Sistema de Login** | Autenticação básica com Flask e SQLite |
+| 🌤️ **Previsão do Tempo** | Aplicação que mostra o clima atual usando a API do OpenWeatherMap |
+| 📝 **Lista de Tarefas** | Sistema de gerenciamento de tarefas com listas, filas e pilhas em Python |
+| 🖥️ **Cliente Servidor** | Projeto que simula a comunicação entre cliente e servidor em Python |
+| 🛍️ **Loja Virtual** | Sistema de loja online simples desenvolvido em Python |
+| 🍔 **Sistema de Pedidos** | Aplicação para controle de pedidos em Python |
 
 ---
 
 ## 🌱 O que já aprendi
 - Estruturas de dados em **Python**
-- Criação de **APIs RESTful** com Flask e Django  
+- Criação de **APIs RESTful** com Flask e Django
 - Manipulação de **JSON**
 - Autenticação com **JWT Token**
-- Conexão e modelagem de dados com **PostgreSQL, MySQL e SQLite**
+- Conexão e modelagem de dados com **PostgreSQL**, **MySQL** e **SQLite**
 - Consumo de **APIs externas**
 - Boas práticas com **Git e GitHub**
 
 ---
 
-
-
-## 📫 Contato
- 
-💼 **LinkedIn:** [linkedin.com/in/andrea-cruz-leonardo](https://www.linkedin.com/in/andrea-cruz-leonardo/)  
+## 📫 Contato  
+💼 **LinkedIn:** [linkedin.com/in/andrea-cruz-leonardo](https://www.linkedin.com/in/andrea-cruz-leonardo)  
+🐙 **GitHub:** [github.com/Dedeinha81](https://github.com/Dedeinha81)
 
 ---
 
