@@ -33,19 +33,6 @@ Atualmente criando projetos em **Python**, mas sempre aberta para aprender **nov
 
 ---
 
-## 📂 Projetos em Destaque  
-
-| Projeto | Descrição |
-|----------|------------|
-| 📚 **Biblioteca CRUD** | Sistema CRUD em Python para gerenciamento de biblioteca |
-| 🔐 **Sistema de Login** | Autenticação básica com Flask e SQLite |
-| 🌤️ **Previsão do Tempo** | Aplicação que mostra o clima atual usando a API do OpenWeatherMap |
-| 📝 **Lista de Tarefas** | Sistema de gerenciamento de tarefas com listas, filas e pilhas em Python |
-| 🖥️ **Cliente Servidor** | Projeto que simula a comunicação entre cliente e servidor em Python |
-| 🛍️ **Loja Virtual** | Sistema de loja online simples desenvolvido em Python |
-| 🍔 **Sistema de Pedidos** | Aplicação para controle de pedidos em Python |
-
----
 
 ## 🌱 O que já aprendi
 - Estruturas de dados em **Python**
