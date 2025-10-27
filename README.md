@@ -3,7 +3,7 @@
 Sou **Desenvolvedora Back-End em formação**, com foco em **Python**, **FastAPI**, **Django** e **bancos de dados SQL**.  
 Tenho experiência prática no desenvolvimento de **APIs RESTful**, **sistemas CRUD** e **deploys automatizados na nuvem (Render + CI/CD)**.  
 
-Tenho grande interesse em aprender novas linguagens e tecnologias, buscando constantemente evoluir e aplicar **boas práticas de desenvolvimento de software**.  
+Tenho grande interesse em aprender novas tecnologias voltadas ao back-end e em aplicar boas práticas de código limpo, segurança e organização em cada projeto que desenvolvo.
 
 ---
 
