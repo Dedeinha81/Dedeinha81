@@ -1,19 +1,12 @@
-# 👋 Olá, eu sou a Andrea!
+# 🎯 Desenvolvedora Back-End
 
-💻 **Tecnóloga em Desenvolvimento Back-End em formação**  
-Apaixonada por tecnologia e pelo poder de transformar ideias em soluções reais.  
-Atualmente criando projetos em **Python**, mas sempre aberta para aprender **novas linguagens e ferramentas.**
+Sou **Desenvolvedora Back-End em formação**, com foco em **Python**, **FastAPI**, **Django** e **bancos de dados SQL**.  
+Tenho experiência prática no desenvolvimento de **APIs RESTful**, **sistemas CRUD** e **deploys automatizados na nuvem (Render + CI/CD)**.  
 
----
-
-## 🚀 Sobre mim
-- 🎓 Estudante de **Tecnologia em Desenvolvimento Back-End**
-- 🧠 Aprendendo e aplicando conceitos de **APIs, banco de dados e autenticação**
-- 💡 Gosto de desenvolver projetos práticos que simulam sistemas reais
-- 🌱 Sempre em busca de aprimorar meus conhecimentos e aprender novas tecnologias
-- 💬 Aberta a colaborações, ideias e novos desafios
+Tenho grande interesse em aprender novas linguagens e tecnologias, buscando constantemente evoluir e aplicar **boas práticas de desenvolvimento de software**.  
 
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas  
 
@@ -34,14 +27,24 @@ Atualmente criando projetos em **Python**, mas sempre aberta para aprender **nov
 ---
 
 
-## 🌱 O que já aprendi
-- Estruturas de dados em **Python**
-- Criação de **APIs RESTful** com Flask e Django
-- Manipulação de **JSON**
-- Autenticação com **JWT Token**
-- Conexão e modelagem de dados com **PostgreSQL**, **MySQL** e **SQLite**
-- Consumo de **APIs externas**
-- Boas práticas com **Git e GitHub**
+## 💡 Projetos em Destaque
+
+🩺 **Clínica Médica**  
+API completa para gestão de pacientes, médicos e consultas, com **PostgreSQL** e **deploy automático no Render**.  
+
+
+🛍️ **Loja Virtual**  
+API completa para cadastro de usuários, produtos e pedidos.  
+🧩 **Tecnologias:** Python · SQLite · JSON Web Token (JWT)
+
+📦 **Sistema de Pedidos**  
+API RESTful desenvolvida com **Python**, **FastAPI** e **PostgreSQL**.
+
+📚 **Biblioteca CRUD**  
+Sistema de gerenciamento de livros com **persistência em JSON**.
+
+🔐 **Sistema de Login**  
+Aplicação de autenticação básica com **Flask** e **SQLite**.
 
 ---
 
