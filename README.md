@@ -33,28 +33,6 @@ Estágio | Júnior | Back-End | TI | Analista de Sistemas | QA | Suporte Técnic
 
 ---
 
-
-## 💡 Projetos em Destaque
-
-🩺 **Clínica Médica**  
-API completa para gestão de pacientes, médicos e consultas, com **PostgreSQL** e **deploy automático no Render**.  
-
-
-🛍️ **Loja Virtual**  
-API completa para cadastro de usuários, produtos e pedidos.  
-🧩 **Tecnologias:** Python · SQLite · JSON Web Token (JWT)
-
-📦 **Sistema de Pedidos**  
-API RESTful desenvolvida com **Python**, **FastAPI** e **PostgreSQL**.
-
-📚 **Biblioteca CRUD**  
-Sistema de gerenciamento de livros com **persistência em JSON**.
-
-🔐 **Sistema de Login**  
-Aplicação de autenticação básica com **Flask** e **SQLite**.
-
----
-
 ## 📫 Contato  
 💼 **LinkedIn:** [linkedin.com/in/andrea-cruz-leonardo](https://www.linkedin.com/in/andrea-cruz-leonardo)  
 🐙 **GitHub:** [github.com/Dedeinha81](https://github.com/Dedeinha81)
