@@ -1,10 +1,17 @@
-# 🎯 Desenvolvedora Back-End
+# 💻 Desenvolvedora Back-End | Aberta para Estágio e Júnior
 
-Sou **Desenvolvedora Back-End em formação**, com foco em **Python**, **FastAPI**, **Django** e **bancos de dados SQL**.  
-Tenho experiência prática no desenvolvimento de **APIs RESTful**, **sistemas CRUD** e **deploys automatizados na nuvem (Render + CI/CD)**.  
+Sou Desenvolvedora Back-End com experiência na criação de APIs RESTful, sistemas CRUD, banco de dados e deploys com boas práticas de desenvolvimento. Tenho facilidade em aprender novas linguagens e tecnologias, sou organizada, dedicada e gosto de resolver problemas de forma eficiente.
 
-Tenho grande interesse em aprender novas tecnologias voltadas ao back-end e em aplicar boas práticas de código limpo, segurança e organização em cada projeto que desenvolvo.
+Busco minha primeira oportunidade como Estágio ou Júnior para aplicar meus conhecimentos, colaborar com a equipe e continuar evoluindo profissionalmente.
 
+🚀 Tecnologias
+Django | FastAPI | PostgreSQL | Git | GitHub | APIs REST | CI/CD | Render
+
+📚 Formação
+Tecnólogo em Desenvolvimento Back-End
+
+💼 Interesses
+Estágio | Júnior | Back-End | TI | Analista de Sistemas | QA | Suporte Técnico
 ---
 
 
